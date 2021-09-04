@@ -1,3 +1,5 @@
+
+new class 
 class hello()
 {
 }
